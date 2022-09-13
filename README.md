@@ -1,2 +1,6 @@
 # OpenGUI
-OpenSource gui for roblox (cheats)))))))))))))
+OpenSource GUI for Roblox
+
+Открытые Сурсы Гуишки для Роблокса
+
+1.0 - Не выпущенно..
