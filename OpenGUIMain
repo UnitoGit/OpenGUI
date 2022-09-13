@@ -196,6 +196,9 @@ function Kavo.CreateLib(kavName, themeList, Borders)
     if not themeList then
         themeList = themes
     end
+    if not Borders then
+        Borders = 10
+    end
     if themeList == "RJTheme1" then
         themeList = themeStyles.RJTheme1
     elseif themeList == "RJTheme2" then
