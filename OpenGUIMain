@@ -342,7 +342,7 @@ function Kavo.CreateLib(kavName, themeList, Borders)
     close1.Name = "close1"
     close1.Parent = MainHeader
     close1.BackgroundTransparency = 1.000
-    close1.Position = UDim2.new(0.949999988, 0, 0.137999997, 0)
+    close1.Position = UDim2.new(1.949999988, 0, 0.137999997, 0)
     close1.Size = UDim2.new(0, 21, 0, 21)
     close1.ZIndex = 2
     close1.Image = "rbxassetid://10912546459"
