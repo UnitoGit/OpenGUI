@@ -1318,6 +1318,8 @@ function Kavo.CreateLib(kavName, themeList, Borders)
                 sliderElement.AutoButtonColor = false
                 sliderElement.Font = Enum.Font.SourceSans
                 sliderElement.Text = ""
+                sliderElement.BorderSizePixel = 2
+                sliderElement.BorderColor3 = Color3.fromRGB(44, 44, 44)
                 sliderElement.TextColor3 = Color3.fromRGB(0, 0, 0)
                 sliderElement.TextSize = 14.000
 
